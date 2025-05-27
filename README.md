@@ -11,7 +11,7 @@ This **Investment Dashboard** showcases market insights, real-time stock & REIT 
 - **Educational & Analytical Use Only** – Users should **always** perform independent research, learn about financial markets, and seek **professional advice** before making investment decisions.  
 
 ## 🌐 Dashboard Access  
-🔗 **Live Dashboard:** [# 📊 Investment Dashboard
+🔗 **Live Dashboard:** [[# 📊 Investment Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEwNWQ0YmYtN2JlNy00Mzk3LWE0NzMtYTM5ZjA5MTgwY2U4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]
 
 ## 🚀 Overview  
 This **Investment Dashboard** showcases market insights, real-time stock & REIT data, and portfolio trends. It is built for **visualization purposes only** and does **not** represent an actual investment portfolio.
