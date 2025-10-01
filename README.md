@@ -12,8 +12,8 @@ This **Investment Dashboard** is designed to **simulate an investor’s personal
 🔗 **Live Dashboard:** [[#  Investment Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDEwNWQ0YmYtN2JlNy00Mzk3LWE0NzMtYTM5ZjA5MTgwY2U4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)]
 
 
- **Dashboard Preview:** !(![Investments Analysis by Debora Klein - Power BI - Google Chrome 27_05_2025 19_36_02](https://github.com/user-attachments/assets/690f22ed-1ff7-4752-b98f-d30f3d2d7016)
-)  
+ **Dashboard Preview:** !(https://github.com/user-attachments/assets/690f22ed-1ff7-4752-b98f-d30f3d2d7016)
+
 
 ##  Data Sources  
 This dashboard integrates **real market data**, including:  
